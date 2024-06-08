@@ -6,7 +6,9 @@ philosophy of godigitalist in the cloud computing era
 
 philosophy of godigitalist in the cloud computing era
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2023-2024 Masscollabs Services
+
+Copyright (C) 2023-2024 godigitalist and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
